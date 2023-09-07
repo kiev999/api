@@ -1,0 +1,36 @@
+
+.card {
+  background-color: #c97c7c;
+  border: 1px solid #84bfd8;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(249, 2, 43, 0.1);
+  margin: 20px;
+  padding: 20px;
+}
+
+.cardtitle {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.cardbody h3 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.address p {
+  margin-top: 5px;
+}
+
+.card__footer {
+  margin-top: 20px;
+  border-top: 1px solid #cf8b1d;
+  padding-top: 10px;
+}
+
+.info h4,
+.info h5 {
+  font-size: 14px;
+  margin: 5px 0;
+}
